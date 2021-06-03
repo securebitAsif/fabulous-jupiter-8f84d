@@ -14,7 +14,7 @@ comments: false
 **Currently I am working on** enterprise scale telecommunication project as a security by design consultant. This includes 
 - Development pipeline hardenings
 - Consulting in early development steps
-- Threat Modeling and Risk Analysis on the complete solution
+- Threat modeling and risk analysis on the complete solution
 - Penetration Testing and Report evaluation
 - Data Privacy and User Access Management Report evaluation
 - Final Security Reporting to Management including Mitigation Plan
