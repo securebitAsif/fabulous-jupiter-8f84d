@@ -23,6 +23,6 @@ comments: false
 
 **My educational path is** shaped by my desire to break limits and find innovative solutions to shape a more comfortable life:
 
-- After finishing my Abitur with 
+- After finishing my Abitur with focus on Math and Physics 
 - I started studying Electrical Engineering at Ruhr-Uni Bochum (2015)
 - Specialised 
