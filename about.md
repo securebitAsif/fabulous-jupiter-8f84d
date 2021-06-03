@@ -19,4 +19,4 @@ comments: false
 - Data privacy and user access management report evaluation
 - Final security reporting to management including mitigation plan
 
-**Before worked** at a Germany industry 
+**Before Tech I worked** at a Germany industry 
