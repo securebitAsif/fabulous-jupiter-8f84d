@@ -1,18 +1,34 @@
 ---
-title: Colophon
+title: IT Security - Cloud and Infrastructure
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: idk
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+<figure>
+<img src="/pictures/great.jpg" >
+</figure>
 
-If you have a question about him or else, just send a letter to him.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+**I am an Experienced IT Security-Expert and Cloud Solution enthusiast** with profound knowledge in cryptography, applied security and legal security regulations.<br><br>
+**My work is based on** proven and recognized methodologies. I approach projects by building and seeing the “big picture”, then going down layers and ask myself what *could, can and will go wrong* on each layer. Here is an insight of my own personal path to success. It shall give an impression of my impact individual contribution.
 
-**may u needs ✨**
+**My path of specialisation is** Electrical Engineering -> Information Technology -> Web technology -> Cloud Technology -> Big Data Security
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+**Currently I am working on** enterprise scale telecommunication project as a security by design consultant at Vodafone Group on behalf of Cloudyrion GmbH. This includes 
+- Development pipeline hardenings
+- Consulting in early development steps
+- Threat modeling and risk analysis on the complete solution
+- Penetration testing and report evaluation
+- Data privacy and user access management report evaluation
+- Final security reporting to management including mitigation plan
+
+**Before Tech I worked** at Siemens in IT Operations and Infrastructure.
+
+**My educational path is** shaped by my desire to break limits and find innovative solutions to shape a more comfortable life:
+
+- After finishing my Abitur with focus on Math and Physics (2013)
+- I started studying Electrical Engineering at Ruhr-Uni Bochum (2015)
+- Then specialised in Computer Science at Uni Duisburg-Essen (2018)
+- Now continuing on achieving expert level competency by studying M.Sc. Applied IT Security at Ruhr-Uni Bochum (2021)
