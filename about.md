@@ -8,7 +8,6 @@ comments: false
 
 <figure>
 <img src="/apa-itu-shell/kernel.png" alt="kernel central of operating system">
-<figcaption>Fig 2. bagan kernel.</figcaption>
 </figure>
 
 
