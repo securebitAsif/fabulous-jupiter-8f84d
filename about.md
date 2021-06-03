@@ -11,7 +11,7 @@ comments: false
 
 **My path of specialisation is** Electrical Engineering -> Information Technology -> Web technology -> Cloud Technology -> Big Data Security
 
-**Currently I am working on** enterprise scale telecommunication project as a security by design consultant. This includes 
+**Currently I am working on** enterprise scale telecommunication project as a security by design consultant at Vodafone Group on behalf of Cloudyrion GmbH. This includes 
 - Development pipeline hardenings
 - Consulting in early development steps
 - Threat modeling and risk analysis on the complete solution
