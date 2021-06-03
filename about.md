@@ -26,4 +26,4 @@ comments: false
 - After finishing my Abitur with focus on Math and Physics 
 - I started studying Electrical Engineering at Ruhr-Uni Bochum (2015)
 - Specialised in Computer Science at Uni Duisburg-Essen
-- Continuing on achieving expert level by studying MApplied IT Security at Ruhr-Uni Bochum
+- Continuing on achieving expert level by studying MSc Applied IT Security at Ruhr-Uni Bochum
