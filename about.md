@@ -25,4 +25,5 @@ comments: false
 
 - After finishing my Abitur with focus on Math and Physics 
 - I started studying Electrical Engineering at Ruhr-Uni Bochum (2015)
-- Specialised 
+- Specialised in Computer Science at Uni Duisburg-Essen
+- Continuing 
