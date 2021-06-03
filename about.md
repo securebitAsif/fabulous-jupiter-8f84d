@@ -15,6 +15,6 @@ comments: false
 - Development pipeline hardenings
 - Consulting in early development steps
 - Threat modeling and risk analysis on the complete solution
-- Penetration Testing and Report evaluation
+- Penetration testing and report evaluation
 - Data Privacy and User Access Management Report evaluation
 - Final Security Reporting to Management including Mitigation Plan
