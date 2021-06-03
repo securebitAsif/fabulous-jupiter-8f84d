@@ -5,8 +5,7 @@ description: >-
   
 lang: en-US
 timezone: Western Europe Time
-image: assets/img/ogp.png
-repo: 'https://github.com/piharpi/jekyll-klise'
+
 mode: dark
 author:
   name: Reza Asif
