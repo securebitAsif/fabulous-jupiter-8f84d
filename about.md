@@ -21,4 +21,8 @@ comments: false
 
 **Before Tech I worked** at Siemens in IT Operations and Infrastructure.
 
-**My educational path is** shaped by my desire to break limits and 
+**My educational path is** shaped by my desire to break limits and find innovative solutions to shape a more comfortable life:
+
+- After finishing my Abitur with 
+- I started studying Electrical Engineering at Ruhr-Uni Bochum (2015)
+- Specialised 
