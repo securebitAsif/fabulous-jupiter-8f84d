@@ -6,6 +6,12 @@ excerpt: idk
 comments: false
 ---
 
+<figure>
+<img src="/apa-itu-shell/kernel.png" alt="kernel central of operating system">
+<figcaption>Fig 2. bagan kernel.</figcaption>
+</figure>
+
+
 **I am an Experienced IT Security-Expert and Cloud Solution enthusiast** with profound knowledge in cryptography, applied security and legal security regulations.<br><br>
 **My work is based on** proven and recognized methodologies. I approach projects by building and seeing the “big picture”, then going down layers and ask myself what *could, can and will go wrong* on each layer. Here is an insight of my own personal path to success. It shall give an impression of my impact individual contribution.
 
