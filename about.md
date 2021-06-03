@@ -23,7 +23,7 @@ comments: false
 
 **My educational path is** shaped by my desire to break limits and find innovative solutions to shape a more comfortable life:
 
-- After finishing my Abitur with focus on Math and Physics 
+- After finishing my Abitur with focus on Math and Physics (2012)
 - I started studying Electrical Engineering at Ruhr-Uni Bochum (2015)
 - Then specialised in Computer Science at Uni Duisburg-Essen (2018)
 - Now continuing on achieving expert level competency by studying M.Sc. Applied IT Security at Ruhr-Uni Bochum (2021)
