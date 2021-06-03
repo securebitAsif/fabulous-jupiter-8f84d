@@ -6,8 +6,7 @@ excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in
 comments: false
 ---
 
-I AM 
-Experienced IT Security-Expert and Cloud Solution enthusiast with profound knowledge in cryptography, applied security and legal security regulations.
+I AM an Experienced IT Security-Expert and Cloud Solution enthusiast with profound knowledge in cryptography, applied security and legal security regulations.
 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
