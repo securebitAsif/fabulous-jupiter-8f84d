@@ -7,7 +7,7 @@ comments: false
 ---
 
 <figure>
-<img src="pictures/great.jpg" >
+<img src="/pictures/great.jpg" >
 </figure>
 
 
