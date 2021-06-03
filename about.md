@@ -16,5 +16,5 @@ comments: false
 - Consulting in early development steps
 - Threat modeling and risk analysis on the complete solution
 - Penetration testing and report evaluation
-- Data Privacy and User Access Management Report evaluation
-- Final Security Reporting to Management including Mitigation Plan
+- Data privacy and user access management report evaluation
+- Final security reporting to management including mitigation plan
