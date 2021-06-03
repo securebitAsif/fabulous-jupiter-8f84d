@@ -18,3 +18,5 @@ comments: false
 - Penetration testing and report evaluation
 - Data privacy and user access management report evaluation
 - Final security reporting to management including mitigation plan
+
+**Before I am working on**
