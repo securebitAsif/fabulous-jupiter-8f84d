@@ -19,4 +19,4 @@ comments: false
 - Data privacy and user access management report evaluation
 - Final security reporting to management including mitigation plan
 
-**Before Tech I worked** at Siemens as 
+**Before Tech I worked** at Siemens in IT Operations and Infrastructure.
