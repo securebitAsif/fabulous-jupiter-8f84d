@@ -7,7 +7,7 @@ comments: false
 ---
 
 <figure>
-<img src="/apa-itu-shell/kernel.png" >
+<img src="/pictures/great.png" >
 </figure>
 
 
