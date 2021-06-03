@@ -20,3 +20,5 @@ comments: false
 - Final security reporting to management including mitigation plan
 
 **Before Tech I worked** at Siemens in IT Operations and Infrastructure.
+
+**My educational**
