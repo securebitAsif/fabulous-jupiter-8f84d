@@ -7,7 +7,7 @@ comments: false
 ---
 
 <figure>
-<img src="/apa-itu-shell/kernel.png" alt="kernel central of operating system">
+<img src="/apa-itu-shell/kernel.png" >
 </figure>
 
 
