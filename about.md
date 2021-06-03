@@ -10,3 +10,4 @@ comments: false
 **My work is based on** proven and recognized methodologies. I approach projects by building and seeing the “big picture”, then going down layers and ask myself what could, can and will go wrong on each layer. Here is an insightshard of my most valuable project experiences, which shall give an impression of my individual contribution.
 
 **My path of specialisation is** Information Technology -> Web technology -> Cloud Technology -> Big Data Security
+
