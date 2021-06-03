@@ -11,4 +11,4 @@ comments: false
 
 **My path of specialisation is** Information Technology -> Web technology -> Cloud Technology -> Big Data Security
 
-**Currently I am working on** enterprise scale project 
+**Currently I am working on** enterprise scale telecommunication project as a security by design 
