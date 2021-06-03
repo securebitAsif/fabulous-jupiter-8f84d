@@ -21,4 +21,4 @@ comments: false
 
 **Before Tech I worked** at Siemens in IT Operations and Infrastructure.
 
-**My educational path is** 
+**My educational path is** shaped by my desire to 
